@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(138, 205, 205);
+    text-align: center;
+    margin-top: 250px;
+}
+h1{
+    color: red;
+}
+a{
+    color: white;
+    text-decoration-line: none;
+    font-size: 24px;
+    padding: 10px 20px;
+    margin: 50px;
+    background-color: rgb(254, 121, 84);
+    border-radius: 10px;
+}
+a :hover{
+    background-color: white;
+    color: black;
+}
